@@ -11,5 +11,7 @@ Scanner sc = new Scanner(System.in);
         String nombre = sc.nextLine();
         System.out.println("Hola, " + nombre + ", que tengas un buen dia!");
 
+
+        System.out.println("Gracias por tu participacion, hasta luego!");
     }
 }
