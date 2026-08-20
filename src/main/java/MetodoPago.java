@@ -1,5 +1,4 @@
 public class MetodoPago {
     public void procesar() {
-        System.out.println("Procesando pago...");
-    }
+        System.out.println("Pago realizado en EFECTIVO.");    }
 }
